@@ -1,0 +1,37 @@
+body {
+  width: 359px;
+  background: #fff;
+  color: #1d1d67;
+  font-family: Figtree;
+  font-size: 23px;
+  font-weight: 700;
+  margin: 0px;
+}
+
+h1 {
+  font-size: 23px;
+}
+
+header {
+  background: #1d1d67;
+  color: #fff;
+  display: flex;
+  width: 360px;
+  padding-bottom: 12px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headertop {
+  margin: 10, 20, 10, 20px;
+  display: flex;
+  padding: 10px 20px;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 60px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+}
